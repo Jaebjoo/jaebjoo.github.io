@@ -1,2 +1,3 @@
 name: Jae Joo, BIT Student
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
